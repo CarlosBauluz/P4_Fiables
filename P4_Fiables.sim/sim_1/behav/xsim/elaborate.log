@@ -12,6 +12,6 @@ Compiling package std.standard
 Compiling package std.textio
 Compiling package ieee.std_logic_1164
 Compiling package ieee.numeric_std
-Compiling architecture rtl of entity xil_defaultlib.sma_filter [sma_filter_default]
+Compiling architecture beh of entity xil_defaultlib.sma_filter [\sma_filter(n=4,width=8)\]
 Compiling architecture sim of entity xil_defaultlib.tb_sma_filter
 Built simulation snapshot tb_sma_filter_behav
