@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../P4_Fiables.srcs/sources_1/new/sma_filter.vhd" \
+"../../../../P4_Fiables.srcs/sources_1/new/tb_sma_filter.vhd" \
+
+# Do not sort compile order
+nosort
